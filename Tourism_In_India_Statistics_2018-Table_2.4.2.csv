@@ -1,0 +1,84 @@
+Nationality,Country of Nationality,Arrivals,Air,Sea,Rail ,Road
+North America,Canada,335439,99,0.6,0,0.4
+North America,U.S.A,1376919,99.2,0.5,0,0.2
+North America,Total,1712358,99.2,0.6,0,0.2
+Central and South Amercia,Argentina,14875,97.4,1.1,0,1.5
+Central and South Amercia,Brazil,24453,98.5,0.9,0,0.5
+Central and South Amercia,Mexico,18114,97.4,2.2,0,0.3
+Central and South Amercia,Others,34625,98.2,1.1,0,0.7
+Central and South Amercia,Total,92067,98,1.3,0,0.7
+Western Europe,Austria,31832,98.2,1.4,0,0.4
+Western Europe,Belgium,41902,98.6,1,0,0.4
+Western Europe,Denmark,26761,99,0.7,0,0.4
+Western Europe,Finland,20384,99.4,0.3,0,0.3
+Western Europe,France,249620,99,0.5,0,0.5
+Western Europe,Germany,269380,96.2,3.4,0,0.4
+Western Europe,Greece,10286,95.5,4,0,0.5
+Western Europe,Ireland,37993,99.1,0.7,0,0.2
+Western Europe,Italy,111915,97.9,1.6,0,0.6
+Western Europe,Netherlands,76652,98.8,0.7,0,0.5
+Western Europe,Norway,20882,98.5,1.2,0,0.3
+Western Europe,Portugal,66378,99.6,0.2,0,0.2
+Western Europe,Spain,81442,98.7,0.6,0,0.7
+Western Europe,Sweden,45851,99.3,0.4,0,0.3
+Western Europe,Switzerland,49607,97.6,1.9,0,0.5
+Western Europe,U.K.,986296,99.1,0.7,0,0.2
+Western Europe,Others,6492,98.4,1,0,0.5
+Western Europe,Total,2133673,98.6,1.1,0,0.3
+Eastern Europe,Czech Rep.,11852,97.9,0.4,0,1.6
+Eastern Europe,Hungary,9241,98.4,0.8,0,0.8
+Eastern Europe,Kazakhstan,15421,99.7,0.2,0,0.1
+Eastern Europe,Poland,28674,97.8,1.3,0,0.9
+Eastern Europe,Russian Fed.,278904,99.1,0.6,0,0.2
+Eastern Europe,Ukraine,25988,93,6.6,0,0.4
+Eastern Europe,Others,102792,98.4,1.3,0,0.4
+Eastern Europe,Total,472872,98.5,1.1,0,0.3
+Africa,Egypt,20528,99.1,0.9,0,0.1
+Africa,Kenya,46011,99.8,0.1,0,0.1
+Africa,Mauritius,37706,99.4,0.3,0,0.3
+Africa,Nigeria,12651,99.8,0.1,0,0.1
+Africa,South Africa,57060,98.9,0.9,0,0.2
+Africa,Sudan,22762,100,0,0,0
+Africa,Tanzania,22261,99.7,0.1,0,0.2
+Africa,Others,99044,99.7,0.2,0,0.1
+Africa,Total,318023,99.5,0.3,0,0.1
+West Asia,Bahrain,16764,99.5,0.1,0,0.4
+West Asia,Iraq,56230,99.9,0.1,0,0
+West Asia,Israel,58131,98.8,0.2,0,1
+West Asia,Oman,107217,100,0,0,0
+West Asia,Saudi Arabia,52976,100,0,0,0
+West Asia,Turkey,33251,98.1,1.6,0,0.2
+West Asia,U.A.E.,67238,100,0,0,0
+West Asia,Yemen Arab Rep.,21695,99.7,0.1,0,0.2
+West Asia,Others,44258,99.1,0.9,0,0
+West Asia,Total,457760,99.6,0.2,0,0.2
+South Asia,Afghanistan,149176,100,0,0,0
+South Asia,Bangladesh,2156557,14.4,0,12.7,72.9
+South Asia,Bhutan,25267,87.6,0,0,12.4
+South Asia,Iran,42641,99.7,0.2,0,0.1
+South Asia,Maldives,66150,100,0,0,0
+South Asia,Nepal,164018,97.4,0,0,2.6
+South Asia,Pakistan,44266,11.8,0.2,39.7,48.3
+South Asia,Sri Lanka,303590,90.8,0.2,0,9
+South Asia,Total,2951665,34.7,0.1,9.9,55.2
+South East Asia,Indonesia,43973,96.2,2.7,0,1.2
+South East Asia,Malaysia,322126,99.3,0.4,0,0.4
+South East Asia,Myanmar,56952,77.4,3.4,0,19.2
+South East Asia,Philippines,53963,78.8,21.1,0,0.1
+South East Asia,Singapore,175852,99.6,0.1,0,0.3
+South East Asia,Thailand,140087,89.5,0.6,0,9.9
+South East Asia,Vietnam,23771,80,5.2,0,14.8
+South East Asia,Others,7851,84.2,0.1,0,15.6
+South East Asia,Total,824575,94,2.2,0,3.8
+East Asia,China,247235,98.4,1,0,0.6
+East Asia,Japan,222527,99.3,0.2,0,0.5
+East Asia,Rep.of Korea,142383,97.4,0.3,0,2.3
+East Asia,Taiwan,47043,97.1,0.2,0,2.7
+East Asia,Others,4107,97.2,0.1,0,2.7
+East Asia,Total,663295,98.4,0.5,0,1.1
+Australasia,Australia,324243,98.9,0.8,0,0.3
+Australasia,New Zealand,56597,98.9,0.7,0,0.4
+Australasia,Others,5219,98.9,0.8,0.1,0.2
+Australasia,Total,386059,98.9,0.8,0,0.3
+Not Classified elsewhere,Not Classified elsewhere,23456,95.8,1.1,0,3
+Grand Total,Grand Total,10035803,79.6,0.7,0,19.7

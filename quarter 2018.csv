@@ -1,0 +1,84 @@
+Category,Country of Nationality,Arrivals (in Numbers),1st Quarter (Jan-Mar),2nd Quarter (Apr-Jun),3rd Quarter (Jul-Sep),4th Quarter (Oct-Dec)
+North America,Canada,351040,36.72,14.14,16.19,32.94
+North America,United States,1456678,26.72,21.84,20.23,31.22
+North America,Total,1807718,28.66,20.34,19.45,31.55
+Central & South America,Argentina,16345,46.65,17.42,15.71,20.22
+Central & South America,Brazil,26579,34.25,18.8,18.95,28
+Central & South America,Mexico,19909,27.04,19.02,22.6,31.34
+Central & South America,Others,38252,30.38,20.17,21.46,27.99
+Central & South America,Total,101085,33.37,19.14,20.09,27.39
+Western Europe,Austria,33200,34.82,16.19,20.48,28.52
+Western Europe,Belgium,44086,30.49,17.98,21.37,30.15
+Western Europe,Denmark,28195,39.12,14.75,17.25,28.88
+Western Europe,Finland,21239,41.88,15.84,12.68,29.6
+Western Europe,France,261653,34.22,16.3,21.8,27.69
+Western Europe,Germany,274087,33.76,16.83,19.32,30.09
+Western Europe,Greece,10656,31.16,19.44,20.89,28.51
+Western Europe,Ireland,39276,28.36,21.63,21.98,28.04
+Western Europe,Italy,126931,32.54,14.71,21.82,30.93
+Western Europe,Netherlands,81615,29.5,18.22,22.14,30.14
+Western Europe,Norway,22631,37.01,14.98,18.45,29.55
+Western Europe,Portugal,74492,28.95,19.58,22.21,29.26
+Western Europe,Spain,84356,25.31,15.3,33.44,25.95
+Western Europe,Sweden,46743,37.79,14.47,13.39,34.34
+Western Europe,Switzerland,49322,33.06,16.25,19.17,31.51
+Western Europe,United Kingdom,1029757,34.54,14.9,19.96,30.61
+Western Europe,Others,15396,31.98,17.21,20.18,30.63
+Western Europe,Total,2243635,33.55,15.84,20.67,29.95
+Eastern Europe,Czech Republic,13413,32.68,17.57,20.2,29.55
+Eastern Europe,Hungary,9201,36.81,17.31,15.93,29.94
+Eastern Europe,Kazakhstan,13314,46.34,9.81,10.61,33.24
+Eastern Europe,Poland,31555,36.97,16.58,17.87,28.57
+Eastern Europe,Russian Federation,262309,50.05,9.26,5.56,35.14
+Eastern Europe,Ukraine,26260,36.69,16.53,16.02,30.76
+Eastern Europe,Others,109997,31.84,21.8,19.77,26.59
+Eastern Europe,Total,466049,43.24,13.54,11.11,32.11
+Africa,Egypt,20486,28.38,20.92,24.72,25.98
+Africa,Kenya,48845,25.76,20.27,22.8,31.17
+Africa,Mauritius,42096,29.66,20.45,20.51,29.38
+Africa,Nigeria,12067,26.71,22.06,27.09,24.14
+Africa,South Africa,58613,29.27,18.2,16.88,35.65
+Africa,Sudan,34712,22.37,25.12,26.23,26.28
+Africa,United Republic Of Tanzan,23443,26.71,19.22,26.39,27.68
+Africa,Others,110936,26.54,21.75,25.49,26.22
+Africa,Total,351198,26.97,20.92,23.23,28.88
+West Asia,Bahrain,13915,28.83,22.81,29.06,19.3
+West Asia,Iraq,68462,23.96,22.08,29.53,24.42
+West Asia,Israel,67366,28.12,17.28,30.64,23.96
+West Asia,Oman,95160,30.59,17.95,32.75,18.7
+West Asia,Saudi Arabia,47546,24.88,21.38,31.88,21.85
+West Asia,Turkey,33825,31.73,20.16,22.66,25.45
+West Asia,United Arab Emirates,59971,21.67,15.56,41.74,21.03
+West Asia,Yemen,21674,23.83,21.81,27.42,26.94
+West Asia,Others,41629,31.41,19.51,23.38,25.7
+West Asia,Total,449548,27.2,19.17,31.05,22.58
+South Asia,Afghanistan,153905,34.6,20.03,21.98,23.4
+South Asia,Bangladesh,2256675,25.13,23.49,24.55,26.83
+South Asia,Bhutan,26470,30.76,18.5,24.34,26.4
+South Asia,Iran,35596,42.46,14.53,23.23,19.78
+South Asia,Maldives,62337,26.86,18.1,20.69,34.35
+South Asia,Nepal,174096,26.27,21.4,24.35,27.97
+South Asia,Pakistan,41659,19.88,19.76,27.42,32.94
+South Asia,Sri Lanka,353684,27.11,16.6,31.65,24.64
+South Asia,Total,3104422,26.1,22.11,25.16,26.62
+South East Asia,Indonesia,46867,25.68,19.74,22.23,32.35
+South East Asia,Malaysia,319172,29.81,20.79,22.99,26.4
+South East Asia,Myanmar (burma),75773,41.05,12.18,6.2,40.58
+South East Asia,Philippines,53473,26.85,22.67,24.32,26.15
+South East Asia,Singapore,183581,24.45,22.26,22.33,30.96
+South East Asia,Thailand,166293,33.75,16.81,15.09,34.35
+South East Asia,Vietnam,31427,28.12,12.19,16.03,43.66
+South East Asia,Others,10502,39.28,13.45,12.79,34.48
+South East Asia,Total,887088,30.06,19.28,19.61,31.05
+East Asia,China,281768,26.84,19.59,23.57,30
+East Asia,Japan,236236,27.75,20.2,24.62,27.44
+East Asia,Republic Of Korea,150536,29.43,19.17,23.87,27.54
+East Asia,Taiwan,49457,29.73,19.22,23.75,27.3
+East Asia,Others,6571,30.73,17.43,23.12,28.73
+East Asia,Total,724568,27.91,19.66,23.98,28.46
+Australasia,Australia,346486,26.71,16.51,17.67,39.11
+Australasia,New Zealand,60664,27.26,16.33,17.34,39.06
+Australasia,Others,5478,28.84,17.16,18.89,35.1
+Australasia,Total,412628,26.82,16.49,17.64,39.05
+Not Classified Elsewhere,Not Classified Elsewhere - Total,10037,31.17,21.63,22.93,24.27
+Grand Total,Grand Total,10557976,29.5,19.2,21.9,29.3
